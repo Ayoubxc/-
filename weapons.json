@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "name": "knife-F",
+    "image": "https://i.ibb.co/26VTd2X/knife-F.png",
+    "power": 5,
+    "cost": 0
+  },
+  {
+    "id": 1,
+    "name": "knife-E",
+    "image": "https://i.ibb.co/gMwWvkZ/knife-E.png",
+    "power": 10,
+    "cost": 3000
+  },
+  {
+    "id": 2,
+    "name": "knife-C",
+    "image": "https://i.ibb.co/VxcKhRk/knife-C.png",
+    "power": 20,
+    "cost": 5000
+  },
+  {
+    "id": 3,
+    "name": "knife-A",
+    "image": "https://i.ibb.co/kJSWqhL/knife-A.png",
+    "power": 35,
+    "cost": 12000
+  },
+  {
+    "id": 4,
+    "name": "knife-S",
+    "image": "https://i.ibb.co/mbX47BW/knife-S.png",
+    "power": 50,
+    "cost": 30000
+  },
+  {
+    "id": 5,
+    "name": "knife-SS",
+    "image": "https://i.ibb.co/WWgf7Qv/knife-SS.png",
+    "power": 70,
+    "cost": 50000
+  },
+  {
+    "id": 6,
+    "name": "shuriken",
+    "image": "https://i.ibb.co/ZcYRd9R/shuriken.png",
+    "power": 15,
+    "cost": 10000
+  }
+]
